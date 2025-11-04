@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Recordings
+*.mp4
+*.wav
+*.mkv
+
+# Configs and credentials
+*.json
+*.ini
+*.env
